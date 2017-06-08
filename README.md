@@ -6,7 +6,11 @@ The Model-View-Presenter design pattern is a modern pattern to seperate the view
 
 Dependency injection using Dagger2 is a software design pattern focused on making our applications loosely coupled, extensible, and maintainable.
 
+Reactive Extension is a combination of the best ideas from the Observer pattern, the Iterator pattern, and functional programming.
+
 RxJava is a port from Netflix of the Reactive Extensions (Rx) to Java. RxJava was open sourced 2014 and is hosted at http://reactivex.io/.
+
+In reactive programming the consumer reacts to the data as it comes in. This is the reason why asynchronous programming is also called reactive programming. Reactive programming allows to propagates event changes to registered observers.
 
 RxAndroid is port for Android of RxJava.
 
